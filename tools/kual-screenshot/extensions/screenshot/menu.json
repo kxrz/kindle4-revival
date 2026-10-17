@@ -1,0 +1,22 @@
+{
+	"items": [
+	{
+		"name": "Screenshot",
+		"priority": 1,
+		"items": [
+		{
+			"name": "Capture in 10 seconds",
+			"priority": 1,
+			"action": "./screenshot.sh",
+			"params": "10"
+		},
+		{
+			"name": "Capture in 30 seconds",
+			"priority": 2,
+			"action": "./screenshot.sh",
+			"params": "30"
+		}
+		]
+	}
+	]
+}

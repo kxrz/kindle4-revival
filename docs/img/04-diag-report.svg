@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="739" height="341" viewBox="0 0 739 341" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">
+<rect width="739" height="341" rx="10" fill="#1e1f24"/>
+<rect width="739" height="34" rx="10" fill="#2a2b31"/>
+<rect y="24" width="739" height="10" fill="#2a2b31"/>
+<circle cx="20" cy="17" r="6" fill="#ff5f57"/>
+<circle cx="40" cy="17" r="6" fill="#febc2e"/>
+<circle cx="60" cy="17" r="6" fill="#28c840"/>
+<text x="369" y="22" fill="#9b9ba3" text-anchor="middle" font-size="13">kindle4-revival</text>
+<text x="18" y="58" xml:space="preserve"><tspan fill="#7dd3fc">$ </tspan><tspan fill="#f4f4f5" font-weight="600">grep -A12 &quot;booklet/:&quot; /Volumes/Kindle/diag/report.txt</tspan></text>
+<text x="18" y="78" fill="#d4d4d8" xml:space="preserve">/opt/amazon/ebook/booklet/:</text>
+<text x="18" y="98" fill="#d4d4d8" xml:space="preserve">drwxr-xr-x    2 root     root          1024 Jul 27  2023 .</text>
+<text x="18" y="118" fill="#d4d4d8" xml:space="preserve">drwxr-xr-x   11 root     root          1024 Feb 18  2020 ..</text>
+<text x="18" y="138" fill="#d4d4d8" xml:space="preserve">-rw-r--r--    1 root     root        144741 Feb 18  2020 Browser.jar</text>
+<text x="18" y="158" fill="#d4d4d8" xml:space="preserve">-rw-r--r--    1 root     root        817734 Feb 18  2020 Home.jar</text>
+<text x="18" y="178" fill="#fca5a5" xml:space="preserve">-rw-r--r--    1 root     root         50709 Jul 27  2023 KUALBooklet.jar</text>
+<text x="18" y="198" fill="#d4d4d8" xml:space="preserve">-rw-r--r--    1 root     root        197509 Feb 18  2020 KindletBooklet-1.3.jar</text>
+<text x="18" y="218" fill="#d4d4d8" xml:space="preserve">-rw-r--r--    1 root     root       1437124 Feb 18  2020 MobiReader.jar</text>
+<text x="18" y="238" fill="#d4d4d8" xml:space="preserve">-rw-r--r--    1 root     root         35072 Feb 18  2020 OOBE.jar</text>
+<text x="18" y="258" fill="#d4d4d8" xml:space="preserve">-rw-r--r--    1 root     root         60437 Feb 18  2020 PictureViewer.jar</text>
+<text x="18" y="278" fill="#d4d4d8" xml:space="preserve">-rw-r--r--    1 root     root        200688 Feb 18  2020 Search.jar</text>
+<text x="18" y="298" fill="#d4d4d8" xml:space="preserve">-rw-r--r--    1 root     root        192448 Feb 18  2020 XymlBooklet.jar</text>
+<text x="18" y="318" fill="#d4d4d8" xml:space="preserve">-rw-r--r--    1 root     root         12424 Feb 18  2020 language.jar</text>
+</svg>

@@ -1,0 +1,6 @@
+$ cp tools/fix-kual-booklet/runme.sh /Volumes/Kindle/runme.sh
+$ cp -R files/k4-jailbreak/data.tar.gz files/k4-jailbreak/ENABLE_DIAGS files/k4-jailbreak/diagnostic_logs /Volumes/Kindle/
+$ diskutil eject /Volumes/Kindle
+Disk /Volumes/Kindle ejected
+# ... run the jailbreak again (Restart, D, R, left), then plug the Kindle back in:
+$ rm /Volumes/Kindle/runme.sh

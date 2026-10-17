@@ -1,0 +1,11 @@
+$ cd files
+$ unzip K4-Jailbreak.zip -d k4-jailbreak
+Archive:  K4-Jailbreak.zip
+  inflating: k4-jailbreak/data.tar.gz  
+   creating: k4-jailbreak/diagnostic_logs
+ extracting: k4-jailbreak/diagnostic_logs/device_info.xml  
+  inflating: k4-jailbreak/Update_jailbreak_1.8.N_uninstall.bin  
+ extracting: k4-jailbreak/ENABLE_DIAGS  
+$ cp -R k4-jailbreak/data.tar.gz k4-jailbreak/ENABLE_DIAGS k4-jailbreak/diagnostic_logs /Volumes/Kindle/
+$ diskutil eject /Volumes/Kindle
+Disk /Volumes/Kindle ejected

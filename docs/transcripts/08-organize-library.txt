@@ -1,0 +1,21 @@
+$ cat ma-bibliotheque.json
+{
+  "authors": {
+    "Leblanc, Maurice": "Polar & thriller",
+    "Verne, Jules": "Science-fiction"
+  }
+}
+$ python3 tools/organize-library/organize_library.py ~/Téléchargements \
+>     --dest /Volumes/Kindle/documents --config ma-bibliotheque.json
+Littérature/Dumas, Alexandre/Les trois mousquetaires.epub
+Littérature/Hugo, Victor/Notre-Dame de Paris.epub
+Polar & thriller/Leblanc, Maurice/Arsène Lupin, gentleman-cambrioleur.epub
+Science-fiction/Verne, Jules/Le tour du monde en quatre-vingts jours.epub
+Science-fiction/Verne, Jules/Vingt mille Lieues Sous Les Mers.epub
+
+5 books, 1 duplicates skipped, 2 MB
+     2  Littérature
+     2  Science-fiction
+     1  Polar & thriller
+
+Dry run: nothing copied. Add --apply to copy.

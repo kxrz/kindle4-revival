@@ -1,0 +1,14 @@
+$ grep -A12 "booklet/:" /Volumes/Kindle/diag/report.txt
+/opt/amazon/ebook/booklet/:
+drwxr-xr-x    2 root     root          1024 Jul 27  2023 .
+drwxr-xr-x   11 root     root          1024 Feb 18  2020 ..
+-rw-r--r--    1 root     root        144741 Feb 18  2020 Browser.jar
+-rw-r--r--    1 root     root        817734 Feb 18  2020 Home.jar
+-rw-r--r--    1 root     root         50709 Jul 27  2023 KUALBooklet.jar
+-rw-r--r--    1 root     root        197509 Feb 18  2020 KindletBooklet-1.3.jar
+-rw-r--r--    1 root     root       1437124 Feb 18  2020 MobiReader.jar
+-rw-r--r--    1 root     root         35072 Feb 18  2020 OOBE.jar
+-rw-r--r--    1 root     root         60437 Feb 18  2020 PictureViewer.jar
+-rw-r--r--    1 root     root        200688 Feb 18  2020 Search.jar
+-rw-r--r--    1 root     root        192448 Feb 18  2020 XymlBooklet.jar
+-rw-r--r--    1 root     root         12424 Feb 18  2020 language.jar

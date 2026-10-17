@@ -1,0 +1,7 @@
+$ ./scripts/fetch-files.sh
+OK        K4-Jailbreak.zip
+OK        KUAL-v2.7.37-gfcb45b5-20250419.tar.xz
+OK        koreader-kindle-v2026.07.1.zip
+OK        fr-fr.tar.zst
+OK        en-fr.tar.zst
+Done. Files are in ~/kindle4-revival/files

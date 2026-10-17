@@ -1,0 +1,10 @@
+$ head -9 /Volumes/Kindle/developer/KUAL/work/crash.log
+--------------------------------------------------------------------------------
+[17/10/26 13:54] KUAL (v. 2.7)
+
+java.lang.RuntimeException: java.lang.NoClassDefFoundError: javax.swing.JButton
+    at ixtab.jailbreak.SuicidalKindlet.<init>(Unknown Source)
+    at ixtab.jailbreak.SuicidalKindlet.<init>(Unknown Source)
+    at com.mobileread.ixtab.kindlelauncher.KualKindlet.<init>(KualKindlet.java:46)
+    at com.amazon.kindle.kindlet.internal.kb.zdb(tpb:275)
+    at com.amazon.kindle.kindlet.internal.kb.KU(tpb:439)

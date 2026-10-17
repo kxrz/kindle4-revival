@@ -1,0 +1,3 @@
+$ unzip -q files/koreader-kindle-v2026.07.1.zip -d /Volumes/Kindle/
+$ ls /Volumes/Kindle
+DONT_HALT_ON_REPAIR  developer  documents  extensions  koreader  system

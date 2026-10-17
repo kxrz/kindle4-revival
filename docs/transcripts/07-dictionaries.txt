@@ -1,0 +1,8 @@
+$ brew install zstd
+$ for d in fr-fr en-fr; do
+>   mkdir -p /Volumes/Kindle/koreader/data/dict/$d
+>   zstd -dc files/$d.tar.zst | tar xf - -C /Volumes/Kindle/koreader/data/dict/$d
+> done
+$ du -sh /Volumes/Kindle/koreader/data/dict/*
+ 24M    /Volumes/Kindle/koreader/data/dict/en-fr
+197M    /Volumes/Kindle/koreader/data/dict/fr-fr

@@ -1,0 +1,16 @@
+{
+  "authors": {
+    "King, Stephen": "Fantastique & fantasy",
+    "Child, Lee": "Polar & thriller",
+    "Herbert, Frank": "Science-fiction",
+    "Nothomb, Amélie": "Littérature"
+  },
+  "author_fixes": {
+    "Lee, Child": "Child, Lee",
+    "Nesbo, Jo": "Nesbø, Jo",
+    "Haruki, Murakami": "Murakami, Haruki"
+  },
+  "title_fixes": {
+    "Liste Mortelle (Jack Reacher, #8)": "Liste mortelle"
+  }
+}
