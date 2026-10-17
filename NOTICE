@@ -1,0 +1,30 @@
+kindle4-revival: Kindle 4 jailbreak guide and tools
+Copyright (C) 2026 Florent Bertiaux
+
+This program is free software: you can redistribute it and/or modify it under
+the terms of the GNU General Public License, version 3, as published by the
+Free Software Foundation (see LICENSE). This covers the scripts, tools,
+articles and images of this repository.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+Additional terms, under section 7 of the GNU General Public License, version 3:
+
+(b) Attribution. Any distributed version of this work, modified or not, must
+    preserve the following notice in its documentation:
+
+        Based on kindle4-revival by Florent Bertiaux
+        https://github.com/kxrz/kindle4-revival
+
+Third-party files (not included in this repository, downloaded from their
+upstream by scripts/fetch-files.sh, each under its own terms):
+
+  K4-Jailbreak, KindleModding / NiLuJe / Yifan Lu, https://github.com/KindleModding/K4-Jailbreak
+  KUAL, ixtab, NiLuJe, twobob, stepk (MIT or Apache 2.0), https://www.mobileread.com/forums/showthread.php?t=225030
+  KOReader, the KOReader team (AGPL-3.0), https://github.com/koreader/koreader
+  Wiktionary StarDict dictionaries, xxyzz (GPL-3.0), data from Wiktionary (CC BY-SA), https://github.com/xxyzz/wiktionary_stardict
+
+The reading screenshot shows "Le tour du monde en quatre-vingts jours" by Jules
+Verne (public domain), from Project Gutenberg.

@@ -6,6 +6,9 @@ My first try went nowhere. I followed a popular guide, copied a pile of files ov
 
 Every file I used sits in the repository's [`files/`](../files/) folder at the exact version I tested, and my scripts are in [`tools/`](../tools/). If you're in a hurry, the table at the end lists every error I hit and its fix.
 
+
+![The eight steps of the guide](../docs/img/steps-en-light.svg)
+
 ---
 
 ## Getting the files

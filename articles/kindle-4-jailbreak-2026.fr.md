@@ -8,6 +8,9 @@ Ce guide raconte ce qui fonctionne en octobre 2026, pièges compris. Tous les fi
 
 > Un tutoriel de jailbreak a la durée de vie d'un yaourt. Celui-ci est daté : octobre 2026.
 
+
+![Les huit étapes du guide](../docs/img/steps-fr-light.svg)
+
 ---
 
 ## Ce qu'on va obtenir

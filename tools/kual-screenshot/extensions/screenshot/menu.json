@@ -1,22 +1,30 @@
 {
 	"items": [
-	{
-		"name": "Screenshot",
-		"priority": 1,
-		"items": [
 		{
-			"name": "Capture in 10 seconds",
+			"name": "Screenshot",
 			"priority": 1,
-			"action": "./screenshot.sh",
-			"params": "10"
-		},
-		{
-			"name": "Capture in 30 seconds",
-			"priority": 2,
-			"action": "./screenshot.sh",
-			"params": "30"
+			"items": [
+				{
+					"name": "Capture in 10 seconds",
+					"priority": 1,
+					"action": "./screenshot.sh",
+					"params": "10"
+				},
+				{
+					"name": "Capture in 30 seconds",
+					"priority": 2,
+					"action": "./screenshot.sh",
+					"params": "30"
+				},
+				{
+					"name": "Screenshot tour (guide)",
+					"priority": 3,
+					"action": "./tour.sh",
+					"exitmenu": false,
+					"status": false,
+					"internal": "status Screenshot tour running, do not touch the Kindle for 5 minutes"
+				}
+			]
 		}
-		]
-	}
 	]
 }
