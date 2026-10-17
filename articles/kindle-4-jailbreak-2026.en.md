@@ -159,6 +159,10 @@ documents/
 
 Genre first, because on a tired evening I pick a mood before an author. Then `Last, First` so the alphabetical sort works. Series name and number go at the front of the file name, so the volumes line up in order. Any author is two clicks away.
 
+<img src="../docs/img/kindle-koreader-home.png" alt="KOReader's home screen on the Kindle 4" width="300">
+
+*KOReader's home on my Kindle 4: six genres, with the number of authors in each.*
+
 The hard part was the metadata. The same author showed up as "Lee Child", "Child, Lee" and plain "Child". Titles dragged along "(French Edition)", website names and years. About ten books had the title and author fields swapped.
 
 So I wrote [`tools/organize-library/organize_library.py`](../tools/organize-library/). It has no dependencies, reads each EPUB's metadata, rewrites authors as `Last, First`, strips the junk from titles, picks up series numbers, guesses the genre and skips duplicates. It never touches the originals, and by default it only prints what it would do. Here it is on a few public-domain books:

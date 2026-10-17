@@ -188,6 +188,10 @@ documents/
 
 Deux clics pour arriver à un auteur. C'est le bon compromis avec un pavé directionnel.
 
+<img src="../docs/img/kindle-koreader-home.png" alt="L'accueil de KOReader sur la Kindle 4" width="300">
+
+*L'accueil de KOReader sur ma Kindle 4 : six genres, et le nombre d'auteurs dans chacun.*
+
 ### Le vrai problème : les métadonnées
 
 Les fichiers récupérés ici et là ont des métadonnées dans un état lamentable. Le même auteur apparaissait sous trois formes (« Lee Child », « Child, Lee », « Child »). Des titres traînaient des « (French Edition) », des noms de sites, des années. Une dizaine de livres avaient même le titre et l'auteur inversés.

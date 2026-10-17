@@ -20,6 +20,8 @@ Jailbreak, KOReader, dictionnaires hors ligne et bibliothèque rangée sur la Ki
 
 </div>
 
+<p align="center"><img src="docs/img/kindle-koreader-home.png" alt="KOReader sur la Kindle 4, bibliothèque rangée par genre" width="300"><br><sub>Le résultat : KOReader sur ma Kindle 4, bibliothèque rangée par genre (vraie capture d’écran).</sub></p>
+
 ## La version courte
 
 | # | Étape | Détail |

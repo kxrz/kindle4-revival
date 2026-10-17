@@ -20,6 +20,8 @@ Jailbreak, KOReader, offline dictionaries and a tidy library on the non-touch Ki
 
 </div>
 
+<p align="center"><img src="docs/img/kindle-koreader-home.png" alt="KOReader on the Kindle 4, library sorted by genre" width="300"><br><sub>The end result: KOReader on my Kindle 4, library sorted by genre (real screenshot).</sub></p>
+
 ## The short version
 
 | # | Step | Details |
